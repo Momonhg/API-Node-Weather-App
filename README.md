@@ -1,2 +1,2 @@
-# API-Node-Weather-App
- API node weather App
+# REST-fullAPI weather
+ RESTful API weather
